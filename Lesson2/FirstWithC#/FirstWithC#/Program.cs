@@ -96,36 +96,36 @@ namespace FirstWithC_
 
 
 
-            ////Verilmiş M-dən N - ədək ədədlər içərisində, neçə ədədin rəqəmləri cəminin
-            ////cüt olduğunu tapan alqoritm qurun:
-            //int M = 11;
-            //int N = 14;
-            //int saygac = 0;
+            //Verilmiş M-dən N - ədək ədədlər içərisində, neçə ədədin rəqəmləri cəminin
+            //cüt olduğunu tapan alqoritm qurun:
+            int M = 0;
+            int N = 100;
+            int saygac = 0;
 
-            //for (int i = M; i < N; i++)
-            //{
-            //    int reqemCixart = i;
-            //    int Cem = 0;
+            for (int i = M; i < N; i++)
+            {
+                int reqemCixart = i;
+                int Cem = 0;
 
-            //    if (reqemCixart > 9)
-            //    {
-            //        while (reqemCixart > 1)
-            //        {
-            //            int digit = reqemCixart % 10;
-            //            Cem += digit;
-            //            reqemCixart /= 10;
-            //            Cem += reqemCixart;
+                if (reqemCixart > 9)
+                {
+                    while (reqemCixart > 1)
+                    {
+                        int digit = reqemCixart % 10;
+                        Cem += digit;
+                        reqemCixart -=digit;
+                        reqemCixart /= 10; 
+                    }
 
-            //            if (Cem % 2 == 0)
-            //            {
-            //                Console.WriteLine(i);
-            //                saygac++;
-            //            }
-            //        }
-            //    }
-            //}
+                    if (Cem % 2 == 0)
+                    {
+                        Console.WriteLine(i);
+                        saygac++;
+                    }
+                }
+            }
 
-            //Console.WriteLine($"M-den N-dek ededler icerisinde, {saygac} ededin reqemleri cemi cutdur");
+            Console.WriteLine($"M-den N-dek ededler icerisinde, {saygac} ededin reqemleri cemi cutdur");
 
             #endregion
 
@@ -137,17 +137,17 @@ namespace FirstWithC_
             //Console.WriteLine("------------");
 
 
-            //2. Vurma cedveli: Bir eded daxil edilir ve 10-a qeder vurma cedvelini qaytaran alqoritma qurun.
-            int eded2 = 1;
-            string netice = "";
-            for (int i = 0; i < 10; i++)
-            {
-                netice += $"{eded2}x{i}=" + eded2 * i + "\n";
-                
-            }
+            ////2. Vurma cedveli: Bir eded daxil edilir ve 10-a qeder vurma cedvelini qaytaran alqoritma qurun.
+            //int eded2 = 1;
+            //string netice = "";
+            //for (int i = 0; i < 10; i++)
+            //{
+            //    netice += $"{eded2}x{i}=" + eded2 * i + "\n";
 
-            Console.WriteLine(netice);
-            Console.WriteLine("------------");
+            //}
+
+            //Console.WriteLine(netice);
+            //Console.WriteLine("------------");
 
 
             ////3. Daxil edilen eded uzre(eded ilin aylaridir) ilin hansi feslidir teyin eden alqoritm qurun.
@@ -246,6 +246,10 @@ namespace FirstWithC_
             //}
 
             //Console.WriteLine(netice);
+
+            #endregion
+
+            #region Lesson 3.:
 
             #endregion
         }
