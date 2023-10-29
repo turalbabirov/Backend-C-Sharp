@@ -137,13 +137,17 @@ namespace FirstWithC_
             //Console.WriteLine("------------");
 
 
-            ////2. Vurma cedveli: Bir eded daxil edilir ve 10-a qeder vurma cedvelini qaytaran alqoritma qurun.
-            //int eded2 = 1;
-            //for (int i = 0; i < 10; i++)
-            //{
-            //    Console.WriteLine(eded2 * i);
-            //}
-            //Console.WriteLine("------------");
+            //2. Vurma cedveli: Bir eded daxil edilir ve 10-a qeder vurma cedvelini qaytaran alqoritma qurun.
+            int eded2 = 1;
+            string netice = "";
+            for (int i = 0; i < 10; i++)
+            {
+                netice += $"{eded2}x{i}=" + eded2 * i + "\n";
+                
+            }
+
+            Console.WriteLine(netice);
+            Console.WriteLine("------------");
 
 
             ////3. Daxil edilen eded uzre(eded ilin aylaridir) ilin hansi feslidir teyin eden alqoritm qurun.
@@ -207,41 +211,41 @@ namespace FirstWithC_
             //Console.WriteLine("------------");
 
 
-            //Bonus. Qiymetlendirme sistemi yaratmalisiz:
-            //Bize bir bal(reqem olaraq) gelir. Onun hansi qiymet(herf olaraq) oldugunu bildirmelisiz. 
-            //Mes: Gelen bal 100(int grade=100 Cavab A); gelen bal 30(int grade=30 Cavab F)
-            //Qiymetlendirme araligi: [91-100 > A], [81-90 > B], [71-80 > C], [61-70 > D], [51-60 > E], [0-50 > F]
-            //Gelen eded bu araliqda deyilse onu da dusunun ve yanlis eded oldugu bir cavab qaytarin ekrana.
-            
-            int balYoxla = 76;
-            string netice = "";
+            ////Bonus. Qiymetlendirme sistemi yaratmalisiz:
+            ////Bize bir bal(reqem olaraq) gelir. Onun hansi qiymet(herf olaraq) oldugunu bildirmelisiz. 
+            ////Mes: Gelen bal 100(int grade=100 Cavab A); gelen bal 30(int grade=30 Cavab F)
+            ////Qiymetlendirme araligi: [91-100 > A], [81-90 > B], [71-80 > C], [61-70 > D], [51-60 > E], [0-50 > F]
+            ////Gelen eded bu araliqda deyilse onu da dusunun ve yanlis eded oldugu bir cavab qaytarin ekrana.
 
-            switch(balYoxla)
-            {
-                case (> 90 and <= 100):
-                    netice = $"Gelen bal:{balYoxla}, Cavab: A";
-                    break;
-                case (> 80 and <= 90):
-                    netice = $"Gelen bal:{balYoxla}, Cavab: B";
-                    break;
-                case (> 70 and <= 80):
-                    netice = $"Gelen bal:{balYoxla}, Cavab: C";
-                    break;
-                case (> 60 and <= 70):
-                    netice = $"Gelen bal:{balYoxla}, Cavab: D";
-                    break;
-                case (> 50 and <= 60):
-                    netice = $"Gelen bal:{balYoxla}, Cavab: E";
-                    break;
-                case (> 0 and <= 50):
-                    netice = $"Gelen bal:{balYoxla}, Cavab: F";
-                    break;
-                default:
-                    netice += $"Bele cavab yoxdur. Xahis olunur {balYoxla} deyil, [0-100] reqemi daxil edin.";
-                    break;
-            }
+            //int balYoxla = 76;
+            //string netice = "";
 
-            Console.WriteLine(netice);
+            //switch(balYoxla)
+            //{
+            //    case (> 90 and <= 100):
+            //        netice = $"Gelen bal:{balYoxla}, Cavab: A";
+            //        break;
+            //    case (> 80 and <= 90):
+            //        netice = $"Gelen bal:{balYoxla}, Cavab: B";
+            //        break;
+            //    case (> 70 and <= 80):
+            //        netice = $"Gelen bal:{balYoxla}, Cavab: C";
+            //        break;
+            //    case (> 60 and <= 70):
+            //        netice = $"Gelen bal:{balYoxla}, Cavab: D";
+            //        break;
+            //    case (> 50 and <= 60):
+            //        netice = $"Gelen bal:{balYoxla}, Cavab: E";
+            //        break;
+            //    case (> 0 and <= 50):
+            //        netice = $"Gelen bal:{balYoxla}, Cavab: F";
+            //        break;
+            //    default:
+            //        netice += $"Bele cavab yoxdur. Xahis olunur {balYoxla} deyil, [0-100] reqemi daxil edin.";
+            //        break;
+            //}
+
+            //Console.WriteLine(netice);
 
             #endregion
         }
