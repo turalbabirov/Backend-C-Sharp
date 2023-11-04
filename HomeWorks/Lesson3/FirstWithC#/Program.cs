@@ -35,7 +35,6 @@ namespace FirstWithC_
 
             #endregion
 
-
             #region Lesson 3. Ev tapşırığı - Task2:
 
             Console.Write("Riyaziyyat: ");
