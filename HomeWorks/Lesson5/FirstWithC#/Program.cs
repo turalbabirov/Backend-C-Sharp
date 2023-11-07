@@ -12,7 +12,7 @@ namespace FirstWithC_
         {
             Console.OutputEncoding = Encoding.UTF8;
 
-            #region Task1. - Lesson 5:
+            #region Task1 - Lesson 5:
 
             //Person classı olsun
             //Name, Surname, Age, İsAdult propertyləri olsun.
@@ -21,6 +21,7 @@ namespace FirstWithC_
 
             Person tural = new Person("Tural", "Babirov", 30);
             tural.Result();
+            Console.WriteLine("----------");
 
             #endregion
 
@@ -40,6 +41,7 @@ namespace FirstWithC_
             };
 
             masin.PrintInfo();
+            Console.WriteLine("----------");
 
             #endregion
 
@@ -49,40 +51,50 @@ namespace FirstWithC_
             //Obyekt yarandıqdan sonra Əgər sürət 110 - dan böyükdürsə ekrana "Suret oldurur"
             //əks halda "Bele davam edin" yazısı çap olunsun
 
-            Motorcycle motosiklet = new Motorcycle {
+            Motorcycle motosiklet = new Motorcycle
+            {
                 Brend = "MotoX",
                 Model = "XMoto",
                 Year = 2021,
                 MaxSpeed = 210,
             };
             Console.WriteLine(motosiklet.HasSidecar());
+            Console.WriteLine("----------");
 
             #endregion
 
             #region Task4 - Lesson 5.:
-            //User classı olsun,
-            //içində fantaziyanıza görə propertylər və əsas string Name; string Password; propertyləri olsun.
-            //Və public bool IsPasswordValid() methodu olsun. Bu method, əgər passvordun uzunluğu 6dan qısadırsa,
-            //və ya passwordun daxilində rəqəm yoxdursa və ya əgər Passvordun daxilində Name vardırsa false,
-            //əks halda true return eləsin.
-            //Valid password uzunluğu 6dan uzun,
-            //içində rəqəm olan və userin adının passvordun içində keçmədiyi passvorddur.
+            //User classı olsun, içində fantaziyanıza görə propertylər və əsas..
+            //string Name; string Password; propertyləri olsun. Və public bool IsPasswordValid() methodu olsun.
+            //Bu method, əgər passvordun uzunluğu 6dan qısadırsa, və ya passwordun daxilində rəqəm yoxdursa
+            //və ya əgər Passvordun daxilində Name vardırsa false, əks halda true return eləsin.
+            //Valid password uzunluğu 6dan uzun,içində rəqəm olan və..
+            //userin adının passvordun içində keçmədiyi passvorddur.
 
             //Məsələn:
             //name = Mirqubad
             //password= 123mirqubad  !123
-            //-> false
+            //-> false  -> paswordda name deyeri var
 
             //name = Mirqubad
             //password= akbarov_m
-            //-> false
+            //-> false  -> paswordda reqem yoxdur
 
             //name = Mirqubad
             //password = 123akbarov123
-            //-> true
+            //-> true  
 
 
+            User mirqubad = new User("MirQubad", "690mirGubad");
 
+            if( mirqubad.IsPasswordValid() )
+            {
+                Console.WriteLine("Qeydiyyat tamamlandı!");
+            } else
+            {
+                Console.WriteLine("Yanlış şifrə daxil etdiniz.");
+            }
+             
             #endregion
         }
     }
@@ -135,11 +147,6 @@ namespace FirstWithC_
 
             return "Bele davam edin";
         }
-
-    }
-
-    class USer
-    {
 
     }
 }
