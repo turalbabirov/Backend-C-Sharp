@@ -30,7 +30,7 @@ namespace FirstWithC_
             //(not nümunələrdən aydın olduğu kimi
             //burda ikinci array sıralaması ilə və bütün ədədləri ilə birlikdə 1ci arrayda olmalıdır,
             //bütün rəqəmləri 1 ci arraydə olsa belə sıralamasına da baxmaq lazımdır)
-            int[] arr1 = { 2, 3, 4, 7 };
+            int[] arr1 = { 2, 3, 4, 7 }; 
             int[] arr2 = { 3, 4, 7 };
 
             Console.WriteLine(IsArrayContains(arr1, arr2));
@@ -64,17 +64,16 @@ namespace FirstWithC_
             string esasEded = "";
             string arrEded = "";
 
-            for (int i = 0, prevIndeks = 0; i < arr1.Length; i++)
+            for (int i=0, prevIndeks = 0; i<arr1.Length; i++) 
             {
-                for (int j = 0; j < arr2.Length; j++)
+                for (int j=0; j < arr2.Length; j++)
                 {
                     if (arr1[i] == arr2[j])
                     {
-                        if (i - 1 == prevIndeks)
+                        if( i-1==prevIndeks )
                         {
                             esasEded += $"{arr1[i]}";
-                        }
-                        else
+                        } else
                         {
                             esasEded = $"{arr1[i]}";
                         }
@@ -85,7 +84,7 @@ namespace FirstWithC_
                 }
             }
 
-            foreach (int num in arr2)
+            foreach(int num in arr2)
             {
                 arrEded += $"{num}";
             }
@@ -99,30 +98,43 @@ namespace FirstWithC_
         {
             var user = dbUsers(username, pass);
 
-            Console.WriteLine($"{user.Grade}");
+            Student st = new Student(
+                user.FirstName, 
+                user.LastName,
+                user.Username,
+                user.Password,
+                user.Status
+            );
 
         }
 
-        static Student dbUsers(string username, string pass)
+        static UserList dbUsers(string username, string pass)
         {
 
-
-            User[] userList = {
-                new Student("Murqubad", "Muellim", "mirqubadX", "mirq1234" ,"child",'c'),
-                new Student ("Tural","Babirov", "turalbabirov", "tb4321", "child",'c'),
-                new Student ("Semed", "Mirzezade", "smirzezade","smirze123","child",'c'),
+            UserList[] userList = new[]
+            {
+                new UserList { Id = 1, FirstName="Murqubad", LastName="Muellim", Username="mirqubadX", Password="mirq1234", Status="teacher" },
+                new UserList { Id = 2, FirstName="Tural", LastName="Babirov", Username="turalbabirov", Password="tb4321", Status="student" },
+                new UserList { Id = 3, FirstName="Semed", LastName="Mirzezade", Username="smirzezade", Password="smirze123", Status="student" },
             };
 
-            foreach (Student user in userList) //var yerine ne tip olmalidi sorus
+            foreach (var user in userList) //var yerine ne tip olmalidi sorus
             {
                 if (user.Username == username && user.Password == pass)
                 {
-                    //userInfo = user;
                     return user;
                 }
-            }
+            };
 
-            return null;
+            return new UserList
+            {
+                Id = 9999,
+                FirstName = "Tapilmadi",
+                LastName = "Tapilmadi",
+                Username = "Tapilmadi",
+                Password = "Tapilmadi",
+                Status = "Tapilmadi"
+            };
         }
     }
 

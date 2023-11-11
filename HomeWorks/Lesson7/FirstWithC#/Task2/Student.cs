@@ -9,22 +9,23 @@ namespace FirstWithC_.Task2
 {
     class Student:User
     {
-        protected internal char Grade;
-        public Student(string name, string surname, string username, string password, string status,char grade):base(name, surname, username, password)
+        public Student(string name, string surname, string username, string password, string status):base(name, surname, username, password)
         {
-            Grade = grade;
-            //if (status == "student")
-            //{
-            //    if (name == "Tural") Grade = 'A';
-            //    else Grade = 'B';
-            //}
+            if(status == "student")
+            {
+                if (name == "Tural") Grade = 'A';
+                else Grade = 'B';
+            } else
+            {
+                Grade = 'X';
+            }
 
-            //Console.WriteLine(
-            //    $"Salam, {Name} {Surname}. Sizin gradiniz: {Grade}"
-            //);
+            Console.WriteLine(
+                $"Salam, {Name} {Surname}. Sizin gradiniz: {Grade}"
+            );
         }
 
-        
+        protected internal char Grade;
 
     }
 }
