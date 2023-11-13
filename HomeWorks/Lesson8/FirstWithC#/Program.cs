@@ -35,40 +35,65 @@ namespace FirstWithC_
             //ps: User classına IAccount interface-i implement edilir
             //User yarandığı zaman email ve şifrə təyin edilməsi məcburidir.
             //Userə şifrə təyin edilərkən şifrənin PasswordChecker metodunun şərtlərini ödəməsi lazımdır.
-            User user = new User() {
-                Fullname = "Tural Babirov",
-                Email = "turalbabirov@mail.com",
-                Password = "Tbabirov1"
-            };
-            user.ShowInfo();
-            Console.WriteLine("------------");
+            Console.Write("Emailini yaz: ");
+            string email = Console.ReadLine(); //"turalbabirov@mail.com"
+            Console.Write("Şifrəni yaz: ");
+            string shifre = Console.ReadLine();
 
-            string deyer = user.PasswordChecker() ? "Uğurlu şifrə" : "Yanlış şifrə";
-            Console.WriteLine(deyer);
+            User user = new User(email, shifre);
 
             #endregion
         }
 
         public interface IAccount
         {
-            public abstract bool PasswordChecker();
+            public abstract bool PasswordChecker(string pass);
             public abstract void ShowInfo();
         }
 
-        class User: IAccount
+        class User : IAccount
         {
             public string Fullname;
             public string Email;
-            public string Password;
 
-            public bool PasswordChecker()
+            private string _password;
+            public string Password
             {
-                if(Password.Length>=8) {
+                get
+                {
+                    return _password;
+                }
+
+                set
+                {
+                    if (PasswordChecker(value))
+                    {
+                        _password = value;
+                        ShowInfo();
+                    }
+                    else
+                    {
+                        Console.Clear();
+                        Console.WriteLine("Şifrə təyin olunmadı.");
+                    }
+
+                }
+            }
+            public User(string email, string password)
+            {
+                Fullname = email == "turalbabirov@mail.com" ? "Tural Babirov" : "Istifadeci";
+                Email = email;
+                Password = password;
+            }
+            public bool PasswordChecker(string pass)
+            {
+                if (pass.Length >= 8)
+                {
                     bool kicikHerf = false;
                     bool boyukHerf = false;
                     bool reqem = false;
 
-                    foreach (char letter in Password)
+                    foreach (char letter in pass)
                     {
                         if (Char.IsDigit(letter)) reqem = true;
                         else
@@ -78,8 +103,6 @@ namespace FirstWithC_
                         }
                     }
 
-                    //Console.WriteLine(boyukHerf);
-
                     if (kicikHerf && boyukHerf && reqem) return true;
                 }
 
@@ -88,6 +111,7 @@ namespace FirstWithC_
 
             public void ShowInfo()
             {
+                Console.Clear();
                 Console.WriteLine($"User fullname: {Fullname}\nUser email: {Email}");
             }
         }
