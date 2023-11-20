@@ -1,0 +1,30 @@
+C:\Users\Tural\source\repos\FirstWithC#\FirstWithC#\obj\Debug\net5.0\FirstWithC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tural\source\repos\FirstWithC#\FirstWithC#\obj\Debug\net5.0\FirstWithC#.AssemblyInfoInputs.cache
+C:\Users\Tural\source\repos\FirstWithC#\FirstWithC#\obj\Debug\net5.0\FirstWithC#.AssemblyInfo.cs
+C:\Users\Tural\source\repos\FirstWithC#\FirstWithC#\obj\Debug\net5.0\FirstWithC#.csproj.CoreCompileInputs.cache
+C:\Users\Tural\source\repos\FirstWithC#\FirstWithC#\bin\Debug\net5.0\FirstWithC#.exe
+C:\Users\Tural\source\repos\FirstWithC#\FirstWithC#\bin\Debug\net5.0\FirstWithC#.deps.json
+C:\Users\Tural\source\repos\FirstWithC#\FirstWithC#\bin\Debug\net5.0\FirstWithC#.runtimeconfig.json
+C:\Users\Tural\source\repos\FirstWithC#\FirstWithC#\bin\Debug\net5.0\FirstWithC#.runtimeconfig.dev.json
+C:\Users\Tural\source\repos\FirstWithC#\FirstWithC#\bin\Debug\net5.0\FirstWithC#.dll
+C:\Users\Tural\source\repos\FirstWithC#\FirstWithC#\bin\Debug\net5.0\FirstWithC#.pdb
+C:\Users\Tural\source\repos\FirstWithC#\FirstWithC#\obj\Debug\net5.0\FirstWithC#.dll
+C:\Users\Tural\source\repos\FirstWithC#\FirstWithC#\obj\Debug\net5.0\refint\FirstWithC#.dll
+C:\Users\Tural\source\repos\FirstWithC#\FirstWithC#\obj\Debug\net5.0\FirstWithC#.pdb
+C:\Users\Tural\source\repos\FirstWithC#\FirstWithC#\obj\Debug\net5.0\FirstWithC#.genruntimeconfig.cache
+C:\Users\Tural\source\repos\FirstWithC#\FirstWithC#\obj\Debug\net5.0\ref\FirstWithC#.dll
+C:\Users\Tural\Desktop\Backend C#\HomeWorks\Lesson10\FirstWithC#\bin\Debug\net5.0\FirstWithC#.exe
+C:\Users\Tural\Desktop\Backend C#\HomeWorks\Lesson10\FirstWithC#\bin\Debug\net5.0\FirstWithC#.deps.json
+C:\Users\Tural\Desktop\Backend C#\HomeWorks\Lesson10\FirstWithC#\bin\Debug\net5.0\FirstWithC#.runtimeconfig.json
+C:\Users\Tural\Desktop\Backend C#\HomeWorks\Lesson10\FirstWithC#\bin\Debug\net5.0\FirstWithC#.runtimeconfig.dev.json
+C:\Users\Tural\Desktop\Backend C#\HomeWorks\Lesson10\FirstWithC#\bin\Debug\net5.0\FirstWithC#.dll
+C:\Users\Tural\Desktop\Backend C#\HomeWorks\Lesson10\FirstWithC#\bin\Debug\net5.0\FirstWithC#.pdb
+C:\Users\Tural\Desktop\Backend C#\HomeWorks\Lesson10\FirstWithC#\obj\Debug\net5.0\FirstWithC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tural\Desktop\Backend C#\HomeWorks\Lesson10\FirstWithC#\obj\Debug\net5.0\FirstWithC#.AssemblyInfoInputs.cache
+C:\Users\Tural\Desktop\Backend C#\HomeWorks\Lesson10\FirstWithC#\obj\Debug\net5.0\FirstWithC#.AssemblyInfo.cs
+C:\Users\Tural\Desktop\Backend C#\HomeWorks\Lesson10\FirstWithC#\obj\Debug\net5.0\FirstWithC#.csproj.CoreCompileInputs.cache
+C:\Users\Tural\Desktop\Backend C#\HomeWorks\Lesson10\FirstWithC#\obj\Debug\net5.0\FirstWithC#.dll
+C:\Users\Tural\Desktop\Backend C#\HomeWorks\Lesson10\FirstWithC#\obj\Debug\net5.0\refint\FirstWithC#.dll
+C:\Users\Tural\Desktop\Backend C#\HomeWorks\Lesson10\FirstWithC#\obj\Debug\net5.0\FirstWithC#.pdb
+C:\Users\Tural\Desktop\Backend C#\HomeWorks\Lesson10\FirstWithC#\obj\Debug\net5.0\FirstWithC#.genruntimeconfig.cache
+C:\Users\Tural\Desktop\Backend C#\HomeWorks\Lesson10\FirstWithC#\obj\Debug\net5.0\ref\FirstWithC#.dll
