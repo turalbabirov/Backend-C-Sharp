@@ -21,13 +21,19 @@ namespace FirstWithC_
             //Parametr olaraq string dəyər alsın və aldığı dəyəri console - a videodakı kimi çıxartsın
 
             Thread thread1 = new Thread(PrintText);
-            thread1.Start("asadasd");
+            thread1.Start();
 
         }
 
-        static void PrintText(string str)
+        static void PrintText()
         {
-            Console.WriteLine(str);
+            string ad = "Tural";
+
+            foreach(char herf in ad)
+            {
+                Console.Write(herf);
+                Thread.Sleep(1000);
+            }
         }
     }
 }
