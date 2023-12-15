@@ -16,7 +16,7 @@ CREATE TABLE Owners (
 
 --3. Drugstores (Apteklər) adında bir table qurulmalıdır: 
 CREATE TABLE Drugstores (
-    id int PRIMARY KEY IDENTITY,
+    Id int PRIMARY KEY IDENTITY,
 	Name nvarchar(50),
 	Address nvarchar(250),
 	ContactNumber nvarchar(20) UNIQUE,
@@ -25,7 +25,7 @@ CREATE TABLE Drugstores (
 
 --4. Pharmacists (Əczaçılar) adında bir table qurulmalıdır: 
 CREATE TABLE Pharmacists (
-    id int PRIMARY KEY IDENTITY,
+    Id int PRIMARY KEY IDENTITY,
 	Name nvarchar(50),
 	Surname nvarchar(50),
 	Age int,
@@ -35,7 +35,7 @@ CREATE TABLE Pharmacists (
 
 --5. Drugs (Dərmanlar) adında bir table qurulmalıdır:
 CREATE TABLE Drugs (
-	id int PRIMARY KEY IDENTITY,
+	Id int PRIMARY KEY IDENTITY,
 	Name nvarchar(50),
 	Price decimal,
 	Count decimal,
