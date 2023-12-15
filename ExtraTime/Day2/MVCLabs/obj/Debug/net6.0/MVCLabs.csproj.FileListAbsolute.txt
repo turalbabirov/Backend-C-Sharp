@@ -1,0 +1,227 @@
+C:\Users\Tural\source\repos\MVCLabs\MVCLabs\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Tural\source\repos\MVCLabs\MVCLabs\bin\Debug\net6.0\appsettings.json
+C:\Users\Tural\source\repos\MVCLabs\MVCLabs\bin\Debug\net6.0\MVCLabs.staticwebassets.runtime.json
+C:\Users\Tural\source\repos\MVCLabs\MVCLabs\bin\Debug\net6.0\MVCLabs.exe
+C:\Users\Tural\source\repos\MVCLabs\MVCLabs\bin\Debug\net6.0\MVCLabs.deps.json
+C:\Users\Tural\source\repos\MVCLabs\MVCLabs\bin\Debug\net6.0\MVCLabs.runtimeconfig.json
+C:\Users\Tural\source\repos\MVCLabs\MVCLabs\bin\Debug\net6.0\MVCLabs.dll
+C:\Users\Tural\source\repos\MVCLabs\MVCLabs\bin\Debug\net6.0\MVCLabs.pdb
+C:\Users\Tural\source\repos\MVCLabs\MVCLabs\obj\Debug\net6.0\MVCLabs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tural\source\repos\MVCLabs\MVCLabs\obj\Debug\net6.0\MVCLabs.AssemblyInfoInputs.cache
+C:\Users\Tural\source\repos\MVCLabs\MVCLabs\obj\Debug\net6.0\MVCLabs.AssemblyInfo.cs
+C:\Users\Tural\source\repos\MVCLabs\MVCLabs\obj\Debug\net6.0\MVCLabs.csproj.CoreCompileInputs.cache
+C:\Users\Tural\source\repos\MVCLabs\MVCLabs\obj\Debug\net6.0\MVCLabs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tural\source\repos\MVCLabs\MVCLabs\obj\Debug\net6.0\staticwebassets\msbuild.MVCLabs.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Tural\source\repos\MVCLabs\MVCLabs\obj\Debug\net6.0\staticwebassets\msbuild.build.MVCLabs.props
+C:\Users\Tural\source\repos\MVCLabs\MVCLabs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MVCLabs.props
+C:\Users\Tural\source\repos\MVCLabs\MVCLabs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MVCLabs.props
+C:\Users\Tural\source\repos\MVCLabs\MVCLabs\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Tural\source\repos\MVCLabs\MVCLabs\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Tural\source\repos\MVCLabs\MVCLabs\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Tural\source\repos\MVCLabs\MVCLabs\obj\Debug\net6.0\scopedcss\bundle\MVCLabs.styles.css
+C:\Users\Tural\source\repos\MVCLabs\MVCLabs\obj\Debug\net6.0\MVCLabs.dll
+C:\Users\Tural\source\repos\MVCLabs\MVCLabs\obj\Debug\net6.0\refint\MVCLabs.dll
+C:\Users\Tural\source\repos\MVCLabs\MVCLabs\obj\Debug\net6.0\MVCLabs.pdb
+C:\Users\Tural\source\repos\MVCLabs\MVCLabs\obj\Debug\net6.0\MVCLabs.genruntimeconfig.cache
+C:\Users\Tural\source\repos\MVCLabs\MVCLabs\obj\Debug\net6.0\ref\MVCLabs.dll
+C:\Users\Tural\source\repos\MVCLabs\MVCLabs\obj\Debug\net6.0\MVCLabs.RazorAssemblyInfo.cache
+C:\Users\Tural\source\repos\MVCLabs\MVCLabs\obj\Debug\net6.0\MVCLabs.RazorAssemblyInfo.cs
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\bin\Debug\net6.0\appsettings.json
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\bin\Debug\net6.0\MVCLabs.staticwebassets.runtime.json
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\bin\Debug\net6.0\MVCLabs.exe
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\bin\Debug\net6.0\MVCLabs.deps.json
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\bin\Debug\net6.0\MVCLabs.runtimeconfig.json
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\bin\Debug\net6.0\MVCLabs.dll
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\bin\Debug\net6.0\MVCLabs.pdb
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\obj\Debug\net6.0\MVCLabs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\obj\Debug\net6.0\MVCLabs.AssemblyInfoInputs.cache
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\obj\Debug\net6.0\MVCLabs.AssemblyInfo.cs
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\obj\Debug\net6.0\MVCLabs.csproj.CoreCompileInputs.cache
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\obj\Debug\net6.0\MVCLabs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\obj\Debug\net6.0\MVCLabs.RazorAssemblyInfo.cache
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\obj\Debug\net6.0\MVCLabs.RazorAssemblyInfo.cs
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\obj\Debug\net6.0\staticwebassets\msbuild.MVCLabs.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\obj\Debug\net6.0\staticwebassets\msbuild.build.MVCLabs.props
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MVCLabs.props
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MVCLabs.props
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\obj\Debug\net6.0\scopedcss\bundle\MVCLabs.styles.css
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\obj\Debug\net6.0\MVCLabs.dll
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\obj\Debug\net6.0\refint\MVCLabs.dll
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\obj\Debug\net6.0\MVCLabs.pdb
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\obj\Debug\net6.0\MVCLabs.genruntimeconfig.cache
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\obj\Debug\net6.0\ref\MVCLabs.dll
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\obj\Debug\net6.0\MVCLabs.csproj.AssemblyReference.cache
+C:\Users\Tural\Desktop\Backend C#\Labs\Lab7\MVCLabs\obj\Debug\net6.0\MVCLabs.csproj.CopyComplete
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\bin\Debug\net6.0\appsettings.json
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\bin\Debug\net6.0\MVCLabs.staticwebassets.runtime.json
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\bin\Debug\net6.0\MVCLabs.exe
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\bin\Debug\net6.0\MVCLabs.deps.json
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\bin\Debug\net6.0\MVCLabs.runtimeconfig.json
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\bin\Debug\net6.0\MVCLabs.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\bin\Debug\net6.0\MVCLabs.pdb
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\obj\Debug\net6.0\MVCLabs.csproj.AssemblyReference.cache
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\obj\Debug\net6.0\MVCLabs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\obj\Debug\net6.0\MVCLabs.AssemblyInfoInputs.cache
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\obj\Debug\net6.0\MVCLabs.AssemblyInfo.cs
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\obj\Debug\net6.0\MVCLabs.csproj.CoreCompileInputs.cache
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\obj\Debug\net6.0\MVCLabs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\obj\Debug\net6.0\MVCLabs.RazorAssemblyInfo.cache
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\obj\Debug\net6.0\MVCLabs.RazorAssemblyInfo.cs
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\obj\Debug\net6.0\staticwebassets\msbuild.MVCLabs.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\obj\Debug\net6.0\staticwebassets\msbuild.build.MVCLabs.props
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MVCLabs.props
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MVCLabs.props
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\obj\Debug\net6.0\scopedcss\bundle\MVCLabs.styles.css
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\obj\Debug\net6.0\MVCLabs.csproj.CopyComplete
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\obj\Debug\net6.0\MVCLabs.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\obj\Debug\net6.0\refint\MVCLabs.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\obj\Debug\net6.0\MVCLabs.pdb
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\obj\Debug\net6.0\MVCLabs.genruntimeconfig.cache
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day1\MVCLabs\obj\Debug\net6.0\ref\MVCLabs.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\bin\Debug\net6.0\appsettings.json
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\bin\Debug\net6.0\MVCLabs.staticwebassets.runtime.json
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\bin\Debug\net6.0\MVCLabs.exe
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\bin\Debug\net6.0\MVCLabs.deps.json
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\bin\Debug\net6.0\MVCLabs.runtimeconfig.json
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\bin\Debug\net6.0\MVCLabs.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\bin\Debug\net6.0\MVCLabs.pdb
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\obj\Debug\net6.0\MVCLabs.csproj.AssemblyReference.cache
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\obj\Debug\net6.0\MVCLabs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\obj\Debug\net6.0\MVCLabs.AssemblyInfoInputs.cache
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\obj\Debug\net6.0\MVCLabs.AssemblyInfo.cs
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\obj\Debug\net6.0\MVCLabs.csproj.CoreCompileInputs.cache
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\obj\Debug\net6.0\MVCLabs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\obj\Debug\net6.0\MVCLabs.RazorAssemblyInfo.cache
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\obj\Debug\net6.0\MVCLabs.RazorAssemblyInfo.cs
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\obj\Debug\net6.0\MVCLabs.sourcelink.json
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\obj\Debug\net6.0\staticwebassets\msbuild.MVCLabs.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\obj\Debug\net6.0\staticwebassets\msbuild.build.MVCLabs.props
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MVCLabs.props
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MVCLabs.props
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\obj\Debug\net6.0\scopedcss\bundle\MVCLabs.styles.css
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\obj\Debug\net6.0\MVCLabs.csproj.CopyComplete
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\obj\Debug\net6.0\MVCLabs.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\obj\Debug\net6.0\refint\MVCLabs.dll
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\obj\Debug\net6.0\MVCLabs.pdb
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\obj\Debug\net6.0\MVCLabs.genruntimeconfig.cache
+C:\Users\Tural\Desktop\Backend C#\ExtraTime\Day2\MVCLabs\obj\Debug\net6.0\ref\MVCLabs.dll
